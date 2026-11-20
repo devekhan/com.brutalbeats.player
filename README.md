@@ -1,1 +1,1 @@
-# com.brutalbeats.player
+BrutalBeats
